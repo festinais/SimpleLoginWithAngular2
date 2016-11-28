@@ -1,7 +1,7 @@
 ## JavaAngular2TestPro ##
 
 # Prerequisites
-You need to have node.js[nodejs.org] and npm[npmjs.com] to build project runtime environment
+You need to have [Node.js](http://www.nodejs.org) and [npm](http://www.npmjs.com) to build project runtime environment
 
 # Installation
 
