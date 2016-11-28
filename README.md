@@ -17,3 +17,4 @@ After installing the runtime environment in `webapp` folder run the following co
 ```
 npm start
 ```
+the file users_users_table.sql contains the database schema and user record 
