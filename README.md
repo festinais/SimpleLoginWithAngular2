@@ -7,7 +7,7 @@ You need to have node.js[nodejs.org] and npm[npmjs.com] to build project runtime
 
 ```
 git clone https://github.com/FestinaI/SimpleLoginWithAngular2.git
-cd JavaAngular2TestPro/webapp
+cd SimpleLoginWithAngular2/webapp
 npm install
 ```
 
